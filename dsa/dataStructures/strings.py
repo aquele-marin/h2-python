@@ -66,6 +66,9 @@ print(b[2:])
 # Use negative indexes to start the slice from the end of the string:
 print(b[-5:-2])
 
+# Reversing strings
+print(b[::-1])
+
 # Modify Strings
 # Upper Case
 print(b.upper())
